@@ -1,0 +1,17 @@
+{
+    "keys": {
+        "rows": [
+            {
+                "key": "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",
+                "queries": 0,
+                "balance": 0,
+                "tokens": 0
+            }
+        ],
+        "name": "keys"
+    },
+    "conversations": {
+        "rows": [],
+        "name": "conversations"
+    }
+}
